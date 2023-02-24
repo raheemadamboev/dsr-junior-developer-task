@@ -29,3 +29,9 @@ Requirements:
 3. Applied Clean Architecture architectural pattern which includes MVVM. Clean Architecture includes additional design patterns such as Repository, UseCase, Mapper (DTO-Model), Dependency Injection, and so on.
 4. Pagination pattern is achieved via Jetpack Paging 3.1 library as it is Android best practice. I made it first load 24 items and then lazily load 8 by 8 when scrolled to bottom or top. Also, there is Header and Footer that shows progress bar when loading. When items reach 8 * 6 = 48, it starts destroying oldest items as they occupy unnecessary space in Android RAM (best practise).
 5. SOLID design pattern is followed.
+
+# Screenrecoding:
+
+<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/banner_3.gif" />
+
+In Screen1, title, price, and image displayed. In Screen2, additional details of the product namely title, description, price, rating, stock, brand, image are displayed.
