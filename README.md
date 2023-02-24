@@ -61,7 +61,7 @@ When there is more than enough data is loaded, it starts destroying the oldest d
 # Licence
 
 ```xml
-Designed and developed by raheemadamboev (Raheem) 2022.
+Designed and developed by raheemadamboev (Raheem) 2023.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
