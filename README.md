@@ -54,6 +54,17 @@ When user scrolls to bottom, lazyily loads 8 by 8 (Pagination design pattern). F
 
 When there is more than enough data is loaded, it starts destroying the oldest data in order to free up space in RAM. When scrolled to top to see oldest items, it loads them lazily (Pagination design pattern). Header progress bar is also displayed that informs the user that it is loading more results.
 
+# Tech Stack
+
+Architectural Pattern: Clean Architecture, MVVM
+UI: XML, Material3
+Dependency Injection: Hilt
+Navigation: Jetpack Navigation Components
+Concurrency: Kotlin Coroutines, Kotlin Flows
+Networking: Retrofit2, Kotlin Serialization
+Pagination: Jetpack Paging3
+Others: ViewBinding, Glide, Timber, Safe Args
+
 # Demo
 
 <a href="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/app-debug.apk">You can download demo apk</a>
