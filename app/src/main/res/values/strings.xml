@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DSR Junior Developer Task</string>
+
+    <!-- ProductList -->
+    <string name="products">Products</string>
+    <string name="cd_product_image">Image of product</string>
+    <string name="your_price">$%1$d</string>
+
+    <!-- Product -->
+    <string name="product">Product</string>
+    <string name="your_rating">%1$.2f rating</string>
+    <string name="your_product_left">%1$d quantity left</string>
+</resources>
