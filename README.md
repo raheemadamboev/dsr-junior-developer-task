@@ -1,6 +1,6 @@
 # dsr-junior-developer-task
 
-I assigned this task to test knowledge of Junior developor in my company. This project covers the task which is coded by me.
+I assigned this task to review knowledge of Junior developor in my company. This project covers the task which is coded by me.
 
 # Task
 
