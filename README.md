@@ -53,3 +53,25 @@ When user scrolls to bottom, lazyily loads 8 by 8 (Pagination design pattern). F
 </p>
 
 When there is more than enough data is loaded, it starts destroying the oldest data in order to free up space in RAM. When scrolled to top to see oldest items, it loads them lazily (Pagination design pattern). Header progress bar is also displayed that informs the user that it is loading more results.
+
+# Demo
+
+<a href="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/app-debug.apk">You can download demo apk</a>
+
+# Licence
+
+```xml
+Designed and developed by raheemadamboev (Raheem) 2022.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
