@@ -56,21 +56,14 @@ When there is more than enough data is loaded, it starts destroying the oldest d
 
 # Tech Stack
 
-Architectural Pattern: Clean Architecture, MVVM
-
-UI: XML, Material3
-
-Dependency Injection: Hilt
-
-Navigation: Jetpack Navigation Components
-
-Concurrency: Kotlin Coroutines, Kotlin Flows
-
-Networking: Retrofit2, Kotlin Serialization
-
-Pagination: Jetpack Paging3
-
-Others: ViewBinding, Glide, Timber, Safe Args
+- Architectural Pattern: Clean Architecture, MVVM
+- UI: XML, Material3
+- Dependency Injection: Hilt
+- Navigation: Jetpack Navigation Components
+- Concurrency: Kotlin Coroutines, Kotlin Flows
+- Networking: Retrofit2, Kotlin Serialization
+- Pagination: Jetpack Paging3
+– Others: ViewBinding, Glide, Timber, Safe Args
 
 # Demo
 
