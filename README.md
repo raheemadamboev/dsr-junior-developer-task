@@ -14,7 +14,7 @@ In Screen1, get products over API and display them using a pagination pattern. D
 
 API -> https://dummyjson.com/docs/products
 
-Requirements:
+Requirements
 
 1. Use Android Jetpack libraries.
 2. Use Android best practices.
@@ -22,7 +22,7 @@ Requirements:
 4. Use Pagination pattern: first load 24 products, then continuously load 8 by 8 when it is scrolled to the bottom.
 5. Apply SOLID design principles.
 
-# Requirements Check:
+# Requirements Check
 
 1. Used the latest native Android app development tech stack inlcuding all the best practices and libraries that comes from Android Jetpack. To name some of them, Jetpack Navigation Components, Jetpack Paging3, Jetpack Dagger Hilt, Jetpack SavedStateHandle, Jeptack ViewModel, Jetpack Lifecycle and so on.
 2. Followed all best practices in the project.
