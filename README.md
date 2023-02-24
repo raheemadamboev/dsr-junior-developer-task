@@ -32,6 +32,24 @@ Requirements:
 
 # Screenrecordings:
 
-<img align="center" width="296" height="600"  src="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/banner_3.gif" />
+<p align="center">
+    <img width="296" height="600" src="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/banner_3.gif" >
+</p>
 
 In Screen1, title, price, and image displayed. In Screen2, additional details of the product namely title, description, price, rating, stock, brand, image are displayed.
+
+---
+
+<p align="center">
+    <img width="296" height="600" src="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/banner_1.gif" >
+</p>
+
+When user scrolls to bottom, lazyily loads 8 by 8 (Pagination design pattern). Footer progress bar is also displayed that informs the user that it is loading more results.
+
+---
+
+<p align="center">
+    <img width="296" height="600" src="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/banner_2.gif" >
+</p>
+
+When there is more than enough data is loaded, it starts destroying the oldest data in order to free up space in RAM. When scrolled to top to see oldest items, it loads them lazily (Pagination design pattern). Header progress bar is also displayed that informs the user that it is loading more results.
