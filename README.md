@@ -63,7 +63,7 @@ When there is more than enough data is loaded, it starts destroying the oldest d
 - Concurrency: Kotlin Coroutines, Kotlin Flows
 - Networking: Retrofit2, Kotlin Serialization
 - Pagination: Jetpack Paging3
-– Others: ViewBinding, Glide, Timber, Safe Args
+- Others: ViewBinding, Glide, Timber, Safe Args
 
 # Demo
 
