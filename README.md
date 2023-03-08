@@ -44,7 +44,7 @@ In Screen1, title, price, and image displayed. In Screen2, additional details of
     <img width="296" height="600" src="https://github.com/raheemadamboev/dsr-junior-developer-task/blob/master/banner_1.gif" >
 </p>
 
-When user scrolls to bottom, lazyily loads 8 by 8 (Pagination design pattern). Footer progress bar is also displayed that informs the user that it is loading more results.
+When user scrolls to bottom, it lazyly loads 8 by 8 (Pagination design pattern). Footer progress bar is also displayed that informs the user that it is loading more results.
 
 ---
 
