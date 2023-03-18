@@ -81,7 +81,7 @@ class ProductListFragment : Fragment(), ProductAdapter.ProductListener {
     private fun observeProducts() {
         viewLifecycleOwner.lifecycleScope.launch {
             viewmodel.products.collectLatest { data ->
-                adapter.submitData(viewLifecycleOwner.lifecycle, data)
+                adapter.submitData(data)
             }
         }
     }
