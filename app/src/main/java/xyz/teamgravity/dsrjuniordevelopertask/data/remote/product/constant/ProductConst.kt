@@ -21,4 +21,9 @@ object ProductConst {
      * Max size of pagination.
      */
     const val MAX_SIZE = LIMIT * 6
+
+    /**
+     * Is placeholders enabled.
+     */
+    const val ENABLE_PLACEHOLDERS = false
 }

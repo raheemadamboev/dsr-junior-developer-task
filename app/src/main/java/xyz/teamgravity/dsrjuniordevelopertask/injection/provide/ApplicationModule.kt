@@ -70,7 +70,7 @@ object ApplicationModule {
     fun provideGetProductsPagingConfig(): PagingConfig = PagingConfig(
         pageSize = ProductConst.LIMIT,
         maxSize = ProductConst.MAX_SIZE,
-        enablePlaceholders = false
+        enablePlaceholders = ProductConst.ENABLE_PLACEHOLDERS
     )
 
     @Provides
