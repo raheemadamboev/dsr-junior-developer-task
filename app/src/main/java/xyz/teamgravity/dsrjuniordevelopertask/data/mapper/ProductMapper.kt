@@ -1,4 +1,4 @@
-package xyz.teamgravity.dsrjuniordevelopertask.data.remote.product.mapper
+package xyz.teamgravity.dsrjuniordevelopertask.data.mapper
 
 import xyz.teamgravity.dsrjuniordevelopertask.data.remote.product.dto.ProductDto
 import xyz.teamgravity.dsrjuniordevelopertask.domain.model.ProductModel
